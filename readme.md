@@ -5,3 +5,5 @@ it includes the installation of node js,node js npm,angular cli, visual studio c
 i have learnt some basic about how to  run prorgrams in visual studio code.
 # 03-02-21
 i have prepared the MOM document for StandUp Meeting,Activity Discussion.
+i have learnt the components, modules,events in angular
+also tried to build the login form
