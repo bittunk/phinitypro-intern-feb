@@ -9,3 +9,10 @@ i have learnt the components, modules,events in angular
 also tried to build the login form
 # 04-02-21
 learning and implementing the login form .
+installed bootstrap and react bootstrap using
+npm install --save bootstrap react-bootstrap
+We can also use the styles.css file to add the CSS file of Bootstrap to our project.
+
+Open the src/styles.css file of your Angular project and import the bootstrap.css file as follows:
+
+@import "~bootstrap/dist/css/bootstrap.css"
