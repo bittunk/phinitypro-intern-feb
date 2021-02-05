@@ -15,7 +15,8 @@ We can also use the styles.css file to add the CSS file of Bootstrap to our proj
 
 Open the src/styles.css file of your Angular project and import the bootstrap.css file as follows:
 
-@import "~bootstrap/dist/css/bootstrap.css"
+ @import "~bootstrap/dist/css/bootstrap.css"
+
 # 05-02-21
 built the login form
 we  made uml diagram of the whole system
