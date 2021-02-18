@@ -32,3 +32,7 @@ uninstalling the programs from the c drive and install the programs in my d driv
 set 
 # 11-02-21
 trying to buiuld the admin dashborad
+# 17-02-21
+login page completed.
+# 18-02-21
+register component is intregrated with admin home
