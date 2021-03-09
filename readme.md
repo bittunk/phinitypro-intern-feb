@@ -36,3 +36,14 @@ trying to buiuld the admin dashborad
 login page completed.
 # 18-02-21
 register component is intregrated with admin home
+# 09-03-21
+
+facing issue while running
+ ng serve
+ng : File C:\Users\Administrator\AppData\Roaming\npm\ng.ps1 cannot be loaded because running scripts is disabled on this system. For more information, see 
+about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:2
++  ng serve
++  ~~
+ solution
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
