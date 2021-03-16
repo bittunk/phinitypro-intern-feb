@@ -47,3 +47,6 @@ At line:1 char:2
 +  ~~
  solution
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+# 16-03-21
+docker and kubernet is installed.
+trying to integrate the gmail login withour login app..
